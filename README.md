@@ -1,4 +1,4 @@
-# Projecte VC
+# CLASIFICADOR DE FLORES MEDIANTE IA
 
 Sergi Díaz Castro / 1489852, Pol Fernandez de la Cruz / 1531031
 
